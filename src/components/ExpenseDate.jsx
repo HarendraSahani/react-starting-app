@@ -11,6 +11,7 @@ function ExpenseDate(props) {
       <div className="expense-date__month">{monthOfBuy}</div>
       <div className="expense-date__day">{dayOfBuy}</div>
       <div className="expense-date__year">{yearOfBuy}</div>
+      <div className="expense-date__year">{yearOfBuy}</div>
     </div>
   );
 }
